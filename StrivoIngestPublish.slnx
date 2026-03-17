@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="StrivoIngestPublish.Tests/StrivoIngestPublish.Tests.csproj" />
+  <Project Path="StrivoIngestPublish/StrivoIngestPublish.csproj" />
+</Solution>
